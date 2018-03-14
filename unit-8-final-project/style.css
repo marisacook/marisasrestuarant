@@ -1,0 +1,27 @@
+.jumbotron{
+           background-color:grey;
+           color:white;
+           text-align: center;
+           
+}
+       
+       
+img {
+    width:150px;
+   
+}
+
+
+body{
+ text-align:center;
+ 
+}
+
+#test {
+ display:none;
+}
+
+
+body {
+    background: linear-gradient(to bottom, #000099 0%, #66ffcc 100%);
+}
